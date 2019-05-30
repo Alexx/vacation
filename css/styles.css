@@ -8,3 +8,8 @@
 .panel h3{
   text-align: center;
 }
+
+div p {
+  text-indent: 50px;
+  padding: 10px;
+}
