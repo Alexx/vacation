@@ -13,3 +13,7 @@ div p {
   text-indent: 50px;
   padding: 10px;
 }
+
+div ul :last-child {
+  color: red;
+}
