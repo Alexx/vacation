@@ -1,3 +1,6 @@
 .jumbotron {
   text-align: center;
+  background-image: url("../img/beijing.jpeg");
+  background-size: cover;
+  height: 500px;
 }
