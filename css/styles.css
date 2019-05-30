@@ -4,3 +4,7 @@
   background-size: cover;
   height: 500px;
 }
+
+.panel h3{
+  text-align: center;
+}
